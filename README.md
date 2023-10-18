@@ -6,10 +6,10 @@
 - Ideation Hackathon ❤️
 
 - 📫 How to find me: 
-   - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/
+   - :office: [LinkedIn](https://www.linkedin.com/in/ansh-rawat-3bb0451b4)
  
  - 🔭 I’m currently working on my DEVOPS skillset.
-- 👯 I’m looking to collaborate on Ideation Hackathon.
+- 👯 I’m looking to collaborate on the Ideation Hackathon.
 - 💬 Ask me about Microsoft Learn Student Ambassadors Community
 - 📫 How to reach me: anshrawat140302@gmail.com
 
